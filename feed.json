@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://dvdlite.micro.blog/2024/09/29/woohoo-ducks-win.html",
+				
+				"content_html": "<p>Woohoo! Ducks win on the road! 4-0 Go Ducks! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Woohoo! Ducks win on the road! 4-0 Go Ducks! 🦆🏈\n\n<img src=\"uploads/2024/efcff3d3a1.jpg\" width=\"600\" height=\"443\" alt=\"A scoreboard shows that Oregon defeated UCLA 34-13, with quarter scores and team records displayed.\">\n",
+				"date_published": "2024-09-29T02:18:05-04:00",
+				"url": "https://dvdlite.co/2024/09/29/woohoo-ducks-win.html"
+			},
+			{
 				"id": "http://dvdlite.micro.blog/2024/09/23/please-consider-donating.html",
 				
 				"content_html": "<p>🩸 Please consider donating blood if you are able. As a universal donor, I donate using the Double Red process, so an hour out of my life three times a year to save lives feels like a no-brainer.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/14/now-thats-more.html",
 				
 				"content_html": "<p>Now that’s more like it! Go Oregon Ducks! 3-0! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now that’s more like it! Go Oregon Ducks! 3-0! 🦆🏈\n\n<img src=\"uploads/2024/c0e0cb1962.jpg\" width=\"600\" height=\"356\" alt=\"The image shows the final score of a football game where Oregon defeated Oregon State 49-14.\">\n",
+				"content_text": "Now that’s more like it! Go Oregon Ducks! 3-0! 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/c0e0cb1962.jpg\" width=\"600\" height=\"356\" alt=\"The image shows the final score of a football game where Oregon defeated Oregon State 49-14.\">\n",
 				"date_published": "2024-09-14T20:02:11-04:00",
 				"url": "https://dvdlite.co/2024/09/14/now-thats-more.html"
 			},
