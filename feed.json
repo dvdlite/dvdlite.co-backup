@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://dvdlite.micro.blog/2024/11/02/ginger-cat-relaxation.html",
+				
+				"content_html": "<p>Ginger cat relaxation #Caturday with Elliott and Winston</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ginger cat relaxation #Caturday with Elliott and Winston\n\n<img src=\"uploads/2024/0fd0f39a11.jpg\" width=\"600\" height=\"449\" alt=\"Two ginger and white cats are sitting closely together on a mat.\">\n",
+				"date_published": "2024-11-02T14:08:03-04:00",
+				"url": "https://dvdlite.co/2024/11/02/ginger-cat-relaxation.html"
+			},
+			{
+				"id": "http://dvdlite.micro.blog/2024/10/29/wow-looks-like.html",
+				
+				"content_html": "<p>Wow, looks like the Omnivore app is going away in 2 weeks. Such a bummer. Guess it’s time to find a new newsletter consumption process. 🔗 <a href=\"https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs\">blog.omnivore.app/p/omnivor&hellip;</a></p>\n",
+				"content_text": "Wow, looks like the Omnivore app is going away in 2 weeks. Such a bummer. Guess it’s time to find a new newsletter consumption process. 🔗 [blog.omnivore.app/p/omnivor...](https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs)\n",
+				"date_published": "2024-10-29T19:53:51-04:00",
+				"url": "https://dvdlite.co/2024/10/29/wow-looks-like.html"
+			},
+			{
+				"id": "http://dvdlite.micro.blog/2024/10/28/wonderful-pink-pillar.html",
+				
+				"content_html": "<p>Wonderful pink pillar sunset last night 📸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wonderful pink pillar sunset last night 📸\n\n<img src=\"uploads/2024/e8b283a9a9.jpg\" width=\"600\" height=\"450\" alt=\"A pink and orange sunset is visible over a silhouette of hills and a building, with a tree branch on the left side.\">\n",
+				"date_published": "2024-10-28T07:26:51-04:00",
+				"url": "https://dvdlite.co/2024/10/28/wonderful-pink-pillar.html"
+			},
+			{
+				"id": "http://dvdlite.micro.blog/2024/10/27/the-abyss-rewatched.html",
+				
+				"content_html": "<p>🍿 The Abyss (1989) ★★★★½ - Rewatched. Definitely a fave <a href=\"https://letterboxd.com/dvdlite/film/the-abyss/\">letterboxd.com/dvdlite/f&hellip;</a></p>\n",
+				"content_text": "🍿 The Abyss (1989) ★★★★½ - Rewatched. Definitely a fave [letterboxd.com/dvdlite/f...](https://letterboxd.com/dvdlite/film/the-abyss/)\n",
+				"date_published": "2024-10-27T21:25:35-04:00",
+				"url": "https://dvdlite.co/2024/10/27/the-abyss-rewatched.html"
+			},
+			{
+				"id": "http://dvdlite.micro.blog/2024/10/27/misery-a-classic.html",
+				
+				"content_html": "<p>🍿 Misery (1990) ★★★★½ - A classic! <a href=\"https://letterboxd.com/dvdlite/film/misery/\">letterboxd.com/dvdlite/f&hellip;</a></p>\n",
+				"content_text": "🍿 Misery (1990) ★★★★½ - A classic! [letterboxd.com/dvdlite/f...](https://letterboxd.com/dvdlite/film/misery/)\n",
+				"date_published": "2024-10-27T21:25:21-04:00",
+				"url": "https://dvdlite.co/2024/10/27/misery-a-classic.html"
+			},
+			{
 				"id": "http://dvdlite.micro.blog/2024/10/26/the-ducks-keep.html",
 				
 				"content_html": "<p>The Ducks keep rolling along! Can they win out? Go Ducks! 8-0! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Ducks keep rolling along! Can they win out? Go Ducks! 8-0! 🦆🏈\n\n<img src=\"uploads/2024/bb806faf44.jpg\" width=\"600\" height=\"536\" alt=\"Oregon defeated Illinois 38-9 in a college football game.\">\n",
+				"content_text": "The Ducks keep rolling along! Can they win out? Go Ducks! 8-0! 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/bb806faf44.jpg\" width=\"600\" height=\"536\" alt=\"Oregon defeated Illinois 38-9 in a college football game.\">\n",
 				"date_published": "2024-10-26T19:25:20-04:00",
 				"url": "https://dvdlite.co/2024/10/26/the-ducks-keep.html"
 			},
@@ -34,7 +74,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/20/bird-watching.html",
 				
 				"content_html": "<p>Bird watching!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bird watching!\n\n<img src=\"uploads/2024/5f955bf19e.jpg\" width=\"600\" height=\"450\" alt=\"Two cats with orange and white fur are sitting on a windowsill looking outside.\">\n",
+				"content_text": "Bird watching!\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/5f955bf19e.jpg\" width=\"600\" height=\"450\" alt=\"Two cats with orange and white fur are sitting on a windowsill looking outside.\">\n",
 				"date_published": "2024-10-20T13:13:30-04:00",
 				"url": "https://dvdlite.co/2024/10/20/bird-watching.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/19/manny-like-most.html",
 				
 				"content_html": "<p>Manny, like most cats, could care less about #Caturday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Manny, like most cats, could care less about #Caturday\n\n<img src=\"uploads/2024/edae3e2d99.jpg\" width=\"600\" height=\"450\" alt=\"A fluffy cat is peacefully sleeping with its head resting on its paw on a soft, gray surface.\">\n",
+				"content_text": "Manny, like most cats, could care less about #Caturday\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/edae3e2d99.jpg\" width=\"600\" height=\"450\" alt=\"A fluffy cat is peacefully sleeping with its head resting on its paw on a soft, gray surface.\">\n",
 				"date_published": "2024-10-19T19:12:19-04:00",
 				"url": "https://dvdlite.co/2024/10/19/manny-like-most.html"
 			},
@@ -50,7 +90,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/19/winston-says-happy.html",
 				
 				"content_html": "<p>Winston says, “Happy #Caturday!”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Winston says, “Happy #Caturday!”\n\n<img src=\"uploads/2024/fdd3e180ce.jpg\" width=\"450\" height=\"600\" alt=\"A relaxed cat is lying on its back in a cozy bed, being petted by a person.\">\n",
+				"content_text": "Winston says, “Happy #Caturday!”\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/fdd3e180ce.jpg\" width=\"450\" height=\"600\" alt=\"A relaxed cat is lying on its back in a cozy bed, being petted by a person.\">\n",
 				"date_published": "2024-10-19T16:48:29-04:00",
 				"url": "https://dvdlite.co/2024/10/19/winston-says-happy.html"
 			},
@@ -58,7 +98,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/19/hey-petebrown-at.html",
 				
 				"content_html": "<p>Hey <a href=\"https://micro.blog/petebrown\">@petebrown</a> at the Loot warehouse sale in Turners</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hey [@petebrown](https://micro.blog/petebrown) at the Loot warehouse sale in Turners\n\n<img src=\"uploads/2024/09e8602196.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hey [@petebrown](https://micro.blog/petebrown) at the Loot warehouse sale in Turners\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/09e8602196.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-19T11:51:41-04:00",
 				"url": "https://dvdlite.co/2024/10/19/hey-petebrown-at.html"
 			},
@@ -66,7 +106,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/18/not-an-exciting.html",
 				
 				"content_html": "<p>Not an exciting game tonight like last weekend. But it’s a win! Go Ducks! 7-0 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not an exciting game tonight like last weekend. But it’s a win! Go Ducks! 7-0 🦆🏈\n\n<img src=\"uploads/2024/0fc8deddd2.jpg\" width=\"600\" height=\"446\" alt=\"Oregon defeated Purdue 35-0, continuing Oregon's undefeated streak at 7-0 this season.\">\n",
+				"content_text": "Not an exciting game tonight like last weekend. But it’s a win! Go Ducks! 7-0 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/0fc8deddd2.jpg\" width=\"600\" height=\"446\" alt=\"Oregon defeated Purdue 35-0, continuing Oregon's undefeated streak at 7-0 this season.\">\n",
 				"date_published": "2024-10-18T23:25:23-04:00",
 				"url": "https://dvdlite.co/2024/10/18/not-an-exciting.html"
 			},
@@ -98,7 +138,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/12/holy-freakin-crap.html",
 				
 				"content_html": "<p>Holy freakin’ crap! Ducks win over the Buckeyes!  6-0! Go Ducks! Yes! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Holy freakin’ crap! Ducks win over the Buckeyes!  6-0! Go Ducks! Yes! 🦆🏈\n\n<img src=\"uploads/2024/8d2e7f5134.jpg\" width=\"600\" height=\"531\" alt=\"A college football game scoreboard shows Oregon defeating Ohio State 32-31, with Oregon ranked 3rd and Ohio State 2nd.\">\n",
+				"content_text": "Holy freakin’ crap! Ducks win over the Buckeyes!  6-0! Go Ducks! Yes! 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/8d2e7f5134.jpg\" width=\"600\" height=\"531\" alt=\"A college football game scoreboard shows Oregon defeating Ohio State 32-31, with Oregon ranked 3rd and Ohio State 2nd.\">\n",
 				"date_published": "2024-10-12T23:04:11-04:00",
 				"url": "https://dvdlite.co/2024/10/12/holy-freakin-crap.html"
 			},
@@ -106,7 +146,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/12/i-spent-some.html",
 				
 				"content_html": "<p>I spent some time today installing a cat door in our RV bedroom so we can move their litter box to our pass-through storage area. Very straightforward hack! Does this count for #Caturday? 😹 Sadly, no cats on this trip to test it out.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I spent some time today installing a cat door in our RV bedroom so we can move their litter box to our pass-through storage area. Very straightforward hack! Does this count for #Caturday? 😹 Sadly, no cats on this trip to test it out. \n\n<img src=\"uploads/2024/f886062a33.jpg\" width=\"600\" height=\"450\" alt=\"A pet door is installed within a carpeted wall area next to a wooden floor.\"><img src=\"uploads/2024/005ddfab15.jpg\" width=\"450\" height=\"600\" alt=\"A small pet door and a round light are installed on the side wall of a camper, with a glimpse of grassy outdoors.\">\n",
+				"content_text": "I spent some time today installing a cat door in our RV bedroom so we can move their litter box to our pass-through storage area. Very straightforward hack! Does this count for #Caturday? 😹 Sadly, no cats on this trip to test it out. \n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/f886062a33.jpg\" width=\"600\" height=\"450\" alt=\"A pet door is installed within a carpeted wall area next to a wooden floor.\"><img src=\"https://cdn.uploads.micro.blog/1926/2024/005ddfab15.jpg\" width=\"450\" height=\"600\" alt=\"A small pet door and a round light are installed on the side wall of a camper, with a glimpse of grassy outdoors.\">\n",
 				"date_published": "2024-10-12T21:18:00-04:00",
 				"url": "https://dvdlite.co/2024/10/12/i-spent-some.html"
 			},
@@ -114,7 +154,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/10/northern-lights-over.html",
 				
 				"content_html": "<p>Northern Lights over York, Maine. The red dot is Nubble Light. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Northern Lights over York, Maine. The red dot is Nubble Light. 📸\n\n<img src=\"uploads/2024/b23613ff1d.jpg\" width=\"450\" height=\"600\" alt=\"A starry night sky with auroras casts colorful hues over a rocky shoreline.\">\n",
+				"content_text": "Northern Lights over York, Maine. The red dot is Nubble Light. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/b23613ff1d.jpg\" width=\"450\" height=\"600\" alt=\"A starry night sky with auroras casts colorful hues over a rocky shoreline.\">\n",
 				"date_published": "2024-10-10T20:55:02-04:00",
 				"url": "https://dvdlite.co/2024/10/10/northern-lights-over.html"
 			},
@@ -130,7 +170,7 @@
 				"id": "http://dvdlite.micro.blog/2024/10/05/go-ducks-another.html",
 				
 				"content_html": "<p>Go Ducks! Another win! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Go Ducks! Another win! 🦆🏈\n\n<img src=\"uploads/2024/36d57ed825.jpg\" width=\"600\" height=\"537\" alt=\"A football game summary showing Oregon Ducks defeating Michigan State 31-10.\">\n",
+				"content_text": "Go Ducks! Another win! 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/36d57ed825.jpg\" width=\"600\" height=\"537\" alt=\"A football game summary showing Oregon Ducks defeating Michigan State 31-10.\">\n",
 				"date_published": "2024-10-05T10:24:35-04:00",
 				"url": "https://dvdlite.co/2024/10/05/go-ducks-another.html"
 			},
@@ -146,7 +186,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/29/woohoo-ducks-win.html",
 				
 				"content_html": "<p>Woohoo! Ducks win on the road! 4-0 Go Ducks! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Woohoo! Ducks win on the road! 4-0 Go Ducks! 🦆🏈\n\n<img src=\"uploads/2024/efcff3d3a1.jpg\" width=\"600\" height=\"443\" alt=\"A scoreboard shows that Oregon defeated UCLA 34-13, with quarter scores and team records displayed.\">\n",
+				"content_text": "Woohoo! Ducks win on the road! 4-0 Go Ducks! 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/efcff3d3a1.jpg\" width=\"600\" height=\"443\" alt=\"A scoreboard shows that Oregon defeated UCLA 34-13, with quarter scores and team records displayed.\">\n",
 				"date_published": "2024-09-29T02:18:05-04:00",
 				"url": "https://dvdlite.co/2024/09/29/woohoo-ducks-win.html"
 			},
@@ -154,7 +194,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/23/please-consider-donating.html",
 				
 				"content_html": "<p>🩸 Please consider donating blood if you are able. As a universal donor, I donate using the Double Red process, so an hour out of my life three times a year to save lives feels like a no-brainer.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🩸 Please consider donating blood if you are able. As a universal donor, I donate using the Double Red process, so an hour out of my life three times a year to save lives feels like a no-brainer. \n\n<img src=\"uploads/2024/93d3be3c0e.jpg\" width=\"600\" height=\"600\" alt=\"A carton of Ardmore Farm Tropical Fruit Punch, a sticker related to blood donation, and two Rip Van Wafels Dutch Caramel & Vanilla snacks are placed on a dark surface.\">\n",
+				"content_text": "🩸 Please consider donating blood if you are able. As a universal donor, I donate using the Double Red process, so an hour out of my life three times a year to save lives feels like a no-brainer. \n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/93d3be3c0e.jpg\" width=\"600\" height=\"600\" alt=\"A carton of Ardmore Farm Tropical Fruit Punch, a sticker related to blood donation, and two Rip Van Wafels Dutch Caramel & Vanilla snacks are placed on a dark surface.\">\n",
 				"date_published": "2024-09-23T17:08:14-04:00",
 				"url": "https://dvdlite.co/2024/09/23/please-consider-donating.html"
 			},
@@ -162,7 +202,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/21/happy-caturday-from.html",
 				
 				"content_html": "<p>Happy #Caturday from our tribe.</p>\n<p>Asher (large grey),\nElliott (large orange and white),\nWinston (small orange and white), and\nManny (small grey).</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Happy #Caturday from our tribe. \n\nAsher (large grey), \nElliott (large orange and white), \nWinston (small orange and white), and \nManny (small grey).\n\n<img src=\"uploads/2024/b6219a98ab.jpg\" width=\"600\" height=\"600\" alt=\"Three cats are playfully gathered on a wooden floor, with a cat scratcher nearby.\"><img src=\"uploads/2024/5863bb611a.jpg\" width=\"600\" height=\"600\" alt=\"A fluffy cat with a striped coat is lying on a wooden floor, looking attentively at the camera.\">\n",
+				"content_text": "Happy #Caturday from our tribe. \n\nAsher (large grey), \nElliott (large orange and white), \nWinston (small orange and white), and \nManny (small grey).\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/b6219a98ab.jpg\" width=\"600\" height=\"600\" alt=\"Three cats are playfully gathered on a wooden floor, with a cat scratcher nearby.\"><img src=\"https://cdn.uploads.micro.blog/1926/2024/5863bb611a.jpg\" width=\"600\" height=\"600\" alt=\"A fluffy cat with a striped coat is lying on a wooden floor, looking attentively at the camera.\">\n",
 				"date_published": "2024-09-21T14:22:00-04:00",
 				"url": "https://dvdlite.co/2024/09/21/happy-caturday-from.html"
 			},
@@ -186,7 +226,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/14/now-thats-more.html",
 				
 				"content_html": "<p>Now that’s more like it! Go Oregon Ducks! 3-0! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now that’s more like it! Go Oregon Ducks! 3-0! 🦆🏈\n\n<img src=\"uploads/2024/c0e0cb1962.jpg\" width=\"600\" height=\"356\" alt=\"The image shows the final score of a football game where Oregon defeated Oregon State 49-14.\">\n",
+				"content_text": "Now that’s more like it! Go Oregon Ducks! 3-0! 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/c0e0cb1962.jpg\" width=\"600\" height=\"356\" alt=\"The image shows the final score of a football game where Oregon defeated Oregon State 49-14.\">\n",
 				"date_published": "2024-09-14T20:02:11-04:00",
 				"url": "https://dvdlite.co/2024/09/14/now-thats-more.html"
 			},
@@ -194,7 +234,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/14/winston-soaking-up.html",
 				
 				"content_html": "<p>Winston soaking up the love on this happy #Caturday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Winston soaking up the love on this happy #Caturday\n\n<img src=\"uploads/2024/455b477d57.jpg\" width=\"450\" height=\"600\" alt=\"A relaxed cat with orange and white fur is being gently petted under the chin while resting on a table.&10;\">\n",
+				"content_text": "Winston soaking up the love on this happy #Caturday\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/455b477d57.jpg\" width=\"450\" height=\"600\" alt=\"A relaxed cat with orange and white fur is being gently petted under the chin while resting on a table.&10;\">\n",
 				"date_published": "2024-09-14T16:08:14-04:00",
 				"url": "https://dvdlite.co/2024/09/14/winston-soaking-up.html"
 			},
@@ -202,7 +242,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/14/one-of-two.html",
 				
 				"content_html": "<p>One of two monarchs enjoying our butterfly bush this afternoon. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of two monarchs enjoying our butterfly bush this afternoon. 📸\n\n<img src=\"uploads/2024/99733ef233.jpg\" width=\"600\" height=\"599\" alt=\"A monarch butterfly is perched on vibrant purple flowers surrounded by green leaves.\">\n",
+				"content_text": "One of two monarchs enjoying our butterfly bush this afternoon. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/99733ef233.jpg\" width=\"600\" height=\"599\" alt=\"A monarch butterfly is perched on vibrant purple flowers surrounded by green leaves.\">\n",
 				"date_published": "2024-09-14T15:56:03-04:00",
 				"url": "https://dvdlite.co/2024/09/14/one-of-two.html"
 			},
@@ -234,7 +274,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/08/glad-i-didnt.html",
 				
 				"content_html": "<p>Glad I didn’t stay up for this nail biter. Not good for the BP. Go Ducks!?! 🦆🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Glad I didn’t stay up for this nail biter. Not good for the BP. Go Ducks!?! 🦆🏈\n\n<img src=\"uploads/2024/f6a6f44acd.jpg\" width=\"600\" height=\"317\" alt=\"Score from game, Boise State 34, Ducks 37&10;\">\n",
+				"content_text": "Glad I didn’t stay up for this nail biter. Not good for the BP. Go Ducks!?! 🦆🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/f6a6f44acd.jpg\" width=\"600\" height=\"317\" alt=\"Score from game, Boise State 34, Ducks 37&10;\">\n",
 				"date_published": "2024-09-08T09:45:26-04:00",
 				"url": "https://dvdlite.co/2024/09/08/glad-i-didnt.html"
 			},
@@ -274,7 +314,7 @@
 				"id": "http://dvdlite.micro.blog/2024/09/02/jumped-out-of.html",
 				
 				"content_html": "<p>Jumped out of a perfectly good airplane today with my buddy Fred. Third time ever tandem jumping. First jump was just a few weeks ago. Super amazing experience — 48 seconds of free falling from 13,500ft followed by an adventurous canopy ride on a beautiful day! 🪂</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Jumped out of a perfectly good airplane today with my buddy Fred. Third time ever tandem jumping. First jump was just a few weeks ago. Super amazing experience — 48 seconds of free falling from 13,500ft followed by an adventurous canopy ride on a beautiful day! 🪂\n\n<img src=\"uploads/2024/d2c6ae0416.jpg\" width=\"563\" height=\"600\" alt=\"\"><img src=\"uploads/2024/20a4734103.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Jumped out of a perfectly good airplane today with my buddy Fred. Third time ever tandem jumping. First jump was just a few weeks ago. Super amazing experience — 48 seconds of free falling from 13,500ft followed by an adventurous canopy ride on a beautiful day! 🪂\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/d2c6ae0416.jpg\" width=\"563\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1926/2024/20a4734103.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-02T21:41:34-04:00",
 				"url": "https://dvdlite.co/2024/09/02/jumped-out-of.html"
 			},
@@ -282,7 +322,7 @@
 				"id": "http://dvdlite.micro.blog/2024/08/31/well-it-wasnt.html",
 				
 				"content_html": "<p>Well, it wasn’t pretty, but it’s a win! Go Ducks! 🦆 🏈</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well, it wasn’t pretty, but it’s a win! Go Ducks! 🦆 🏈\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"348\" alt=\"\">\n",
+				"content_text": "Well, it wasn’t pretty, but it’s a win! Go Ducks! 🦆 🏈\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/image.jpg\" width=\"600\" height=\"348\" alt=\"\">\n",
 				"date_published": "2024-08-31T23:02:36-04:00",
 				"url": "https://dvdlite.co/2024/08/31/well-it-wasnt.html"
 			},
@@ -298,7 +338,7 @@
 				"id": "http://dvdlite.micro.blog/2024/05/25/a-taste-of.html",
 				"title": "A Taste of Blacksmithing",
 				"content_html": "<p>Today, I attended a one-day &ldquo;Taste of Blacksmithing&rdquo; class conducted by Morrell Metalsmiths in Colrain, Massachusetts. This was a Christmas gift from my wife that had to be rescheduled several times, and today was finally the day!</p>\n<p>We started off at 10am with some history of the shop, blacksmithing equipment, and safety.  Then we jumped right into making something.. a fireplace poker.  It was a ton of fun, even if it was hard work.  There were six of us in the class, all complete beginners, and we all came away with very passable tools!</p>\n<!-- raw HTML omitted -->\n<p>Here was my workstation for the day, with a nice anvil preset exactly for my height, and a propane forge more than adequate for today&rsquo;s job.  Some of the students used the larger coal forges which looked like fun. We were able to experiment with different hammers and tools to find what we were most comfortable using.  We wrapped up at around 3:30pm</p>\n<!-- raw HTML omitted -->\n<p>And here is my finished fireplace poker!  We will use it on our camping trips as it&rsquo;s a perfect companion to go with our Solo Stove.</p>\n<p>It was a great day, and I look forward to exploring blacksmithing in future classes!  If this is something you&rsquo;ve had in the back of your mind to try, I would highly recommend finding a local blacksmith class and going for it!</p>\n<p>🔥🗿</p>",
-				"content_text": "Today, I attended a one-day \"Taste of Blacksmithing\" class conducted by Morrell Metalsmiths in Colrain, Massachusetts. This was a Christmas gift from my wife that had to be rescheduled several times, and today was finally the day!\n<!--more-->\n\nWe started off at 10am with some history of the shop, blacksmithing equipment, and safety.  Then we jumped right into making something.. a fireplace poker.  It was a ton of fun, even if it was hard work.  There were six of us in the class, all complete beginners, and we all came away with very passable tools!\n\n<img src=\"uploads/2024/blacksmith-station.png\" width=\"600\" height=\"374\" alt=\"My beginner blacksmithing station, photo taken May 25, 2024, by David Leitko\" title=\"My beginner blacksmithing station, photo taken May 25, 2024, by David Leitko\">\n\nHere was my workstation for the day, with a nice anvil preset exactly for my height, and a propane forge more than adequate for today's job.  Some of the students used the larger coal forges which looked like fun. We were able to experiment with different hammers and tools to find what we were most comfortable using.  We wrapped up at around 3:30pm\n\n<img src=\"uploads/2024/fireplace-poker.png\" width=\"600\" height=\"426\" alt=\"My finished fireplace poker, photo taken May 25, 2024, by David Leitko\" title=\"My finished fireplace poker, photo taken May 25, 2024, by David Leitko\">\n\nAnd here is my finished fireplace poker!  We will use it on our camping trips as it's a perfect companion to go with our Solo Stove.\n\nIt was a great day, and I look forward to exploring blacksmithing in future classes!  If this is something you've had in the back of your mind to try, I would highly recommend finding a local blacksmith class and going for it!\n\n🔥🗿\n",
+				"content_text": "Today, I attended a one-day \"Taste of Blacksmithing\" class conducted by Morrell Metalsmiths in Colrain, Massachusetts. This was a Christmas gift from my wife that had to be rescheduled several times, and today was finally the day!\n<!--more-->\n\nWe started off at 10am with some history of the shop, blacksmithing equipment, and safety.  Then we jumped right into making something.. a fireplace poker.  It was a ton of fun, even if it was hard work.  There were six of us in the class, all complete beginners, and we all came away with very passable tools!\n\n<img src=\"https://dvdlite.micro.blog/uploads/2024/blacksmith-station.png\" width=\"600\" height=\"374\" alt=\"My beginner blacksmithing station, photo taken May 25, 2024, by David Leitko\" title=\"My beginner blacksmithing station, photo taken May 25, 2024, by David Leitko\">\n\nHere was my workstation for the day, with a nice anvil preset exactly for my height, and a propane forge more than adequate for today's job.  Some of the students used the larger coal forges which looked like fun. We were able to experiment with different hammers and tools to find what we were most comfortable using.  We wrapped up at around 3:30pm\n\n<img src=\"https://dvdlite.micro.blog/uploads/2024/fireplace-poker.png\" width=\"600\" height=\"426\" alt=\"My finished fireplace poker, photo taken May 25, 2024, by David Leitko\" title=\"My finished fireplace poker, photo taken May 25, 2024, by David Leitko\">\n\nAnd here is my finished fireplace poker!  We will use it on our camping trips as it's a perfect companion to go with our Solo Stove.\n\nIt was a great day, and I look forward to exploring blacksmithing in future classes!  If this is something you've had in the back of your mind to try, I would highly recommend finding a local blacksmith class and going for it!\n\n🔥🗿\n",
 				"date_published": "2024-05-25T12:35:00-04:00",
 				"url": "https://dvdlite.co/2024/05/25/a-taste-of.html",
 				"tags": ["photography","maker","blacksmithing"]
@@ -307,7 +347,7 @@
 				"id": "http://dvdlite.micro.blog/2024/05/24/breaking-the-ice.html",
 				"title": "Breaking the Ice",
 				"content_html": "<p>How do I break the ice with the first post on my new blog?</p>\n<p>Well, rather than dive into a tedious personal history or jump straight into some complicated deep dive into how to migrate from Proxmox to XCP-ng, let me start with this:</p>\n<!-- raw HTML omitted -->\n<p>This was the favorite photo I took in 2023.</p>\n<p>This curved sky-bridge is part of The Mill in Shelburne Falls, Massachusetts.  Originally built by Lamson &amp; Goodnow Cutlery in the mid-19th century, the buildings have been restored and currently house various artists and makers.  Lamson &amp; Goodnow, established in 1837, is the oldest cutlery manufacturer in the United States, and they still have a presence at this site. It&rsquo;s a beautiful location right below the falls and glacial potholes along the Deerfield River.  In fact, the entire complex is 100% powered by hydro-electricity.</p>\n<p>I love how this structure interconnects two buildings that are not directly next to each other.  In fact, they are at different elevations.  Imagine the storms and winters those old boards and windows have weathered over more than 100 years!  Who has looked out through those windows? What were they doing and thinking? What did they see?</p>\n<p>It would be a dream-come-true to have shop space in a place like this with so much history, heritage, and beauty.</p>\n<p>🗿</p>",
-				"content_text": "How do I break the ice with the first post on my new blog?\n\nWell, rather than dive into a tedious personal history or jump straight into some complicated deep dive into how to migrate from Proxmox to XCP-ng, let me start with this:\n\n<img src=\"uploads/2024/lamson-goodnow.jpg\" width=\"600\" height=\"428\" alt=\"Curved-sky bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko\" title=\"Curved-sky bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko\">\n\nThis was the favorite photo I took in 2023.\n<!--more-->\n\nThis curved sky-bridge is part of The Mill in Shelburne Falls, Massachusetts.  Originally built by Lamson & Goodnow Cutlery in the mid-19th century, the buildings have been restored and currently house various artists and makers.  Lamson & Goodnow, established in 1837, is the oldest cutlery manufacturer in the United States, and they still have a presence at this site. It's a beautiful location right below the falls and glacial potholes along the Deerfield River.  In fact, the entire complex is 100% powered by hydro-electricity.\n\nI love how this structure interconnects two buildings that are not directly next to each other.  In fact, they are at different elevations.  Imagine the storms and winters those old boards and windows have weathered over more than 100 years!  Who has looked out through those windows? What were they doing and thinking? What did they see?\n\nIt would be a dream-come-true to have shop space in a place like this with so much history, heritage, and beauty.\n\n🗿\n",
+				"content_text": "How do I break the ice with the first post on my new blog?\n\nWell, rather than dive into a tedious personal history or jump straight into some complicated deep dive into how to migrate from Proxmox to XCP-ng, let me start with this:\n\n<img src=\"https://cdn.uploads.micro.blog/1926/2024/lamson-goodnow.jpg\" width=\"600\" height=\"428\" alt=\"Curved-sky bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko\" title=\"Curved-sky bridge at the Lamson and Goodnow mill in Shelburne Falls, Massachusetts, photo taken January 7, 2023, by David Leitko\">\n\nThis was the favorite photo I took in 2023.\n<!--more-->\n\nThis curved sky-bridge is part of The Mill in Shelburne Falls, Massachusetts.  Originally built by Lamson & Goodnow Cutlery in the mid-19th century, the buildings have been restored and currently house various artists and makers.  Lamson & Goodnow, established in 1837, is the oldest cutlery manufacturer in the United States, and they still have a presence at this site. It's a beautiful location right below the falls and glacial potholes along the Deerfield River.  In fact, the entire complex is 100% powered by hydro-electricity.\n\nI love how this structure interconnects two buildings that are not directly next to each other.  In fact, they are at different elevations.  Imagine the storms and winters those old boards and windows have weathered over more than 100 years!  Who has looked out through those windows? What were they doing and thinking? What did they see?\n\nIt would be a dream-come-true to have shop space in a place like this with so much history, heritage, and beauty.\n\n🗿\n",
 				"date_published": "2024-05-24T12:27:00-04:00",
 				"url": "https://dvdlite.co/2024/05/24/breaking-the-ice.html",
 				"tags": ["photography"]
